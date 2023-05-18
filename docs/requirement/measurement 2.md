@@ -4,7 +4,7 @@
 Functional 
 
 #### Description: 
-The system shall measure the sensors 
+The system shall measure the sensors inside the box
 
 #### Rationale 
 
@@ -13,13 +13,13 @@ Qualification Test
 
 #### Verification Criteria: 
 
-Normal operting Environment: Normal\
+Normal Operting Environment: Normal\
 Precondition: -\
 Constrain: -\
 Success Criteria: Measurement is available on RS485
 
 #### Status
-Draft 
+Draft
 
 #### Release 
 100
